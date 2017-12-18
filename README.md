@@ -1,5 +1,5 @@
 # Data-Center-Simulation
-Implementation fot Incast Congestion control in Data Center Networks using NS3.
+Implementation for Incast Congestion control in Data Center Networks using NS3.
 
 ### Author: Zeyu Chen(chenzy@gatech.edu), Ruijia Wang(rwang@gatech.edu)
 
