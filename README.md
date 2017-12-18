@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Implement of ICTCP
 
 ### Author: Zeyu Chen(chenzy@gatech.edu), Ruijia Wang(rwang@gatech.edu)
@@ -80,3 +81,7 @@ All .txt files are in result/
 5. Use MATLAB to plot. 
 Input data of txt files, use `myplot.m` to plot. 
 `output_data.mat` is the generated according to .txt files. We do not provide the pcap files since they are too large. You can simulate the model to get them or just use the `output_data.mat` provided to reproduce the figure.
+=======
+# Data-Center-Simulation
+Incast Congestion control for Data Center
+>>>>>>> b6b5838154d9b6faa6d70a62b41ce0199c77bb4e
